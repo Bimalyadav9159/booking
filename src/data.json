@@ -1,0 +1,33 @@
+{
+    "featuredimg": [
+        {
+          "id": 1,
+          "img": "https://cf.bstatic.com/xdata/images/city/max500/957801.webp?k=a969e39bcd40cdcc21786ba92826063e3cb09bf307bcfeac2aa392b838e9b7a5&o=",
+          "clNm": "featuredImg",
+          "alt": " featured Image",
+          "title": "Dublin",
+          "subtitle": "123 properties"
+        },
+        {
+            "id": 1,
+            "img": "https://cf.bstatic.com/xdata/images/city/max500/957801.webp?k=a969e39bcd40cdcc21786ba92826063e3cb09bf307bcfeac2aa392b838e9b7a5&o=",
+            "clNm": "featuredImg",
+            "alt": " featured Image",
+            "title": "Dublin",
+            "subtitle": "123 properties"
+          },
+          {
+            "id": 1,
+            "img": "https://cf.bstatic.com/xdata/images/city/max500/957801.webp?k=a969e39bcd40cdcc21786ba92826063e3cb09bf307bcfeac2aa392b838e9b7a5&o=",
+            "clNm": "featuredImg",
+            "alt": " featured Image",
+            "title": "Dublin",
+            "subtitle": "123 properties"
+          }
+      ]
+      
+      
+    }
+
+
+    

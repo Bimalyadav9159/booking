@@ -15,7 +15,9 @@
   .headerContainer.listMode {
     margin: 20px 0px 0px 0px;
   }
-  
+  .searchdetails{
+    display: flex;
+  }
   .headerList {
     display: flex;
     gap: 40px;
@@ -60,6 +62,9 @@
     bottom: -25px;
     width: 100%;
     max-width: 1024px;
+    gap: 10px;
+  padding-left: 7px;
+
   }
   
   .headerIcon {
